@@ -1,5 +1,5 @@
 # crop-yield-prediction
-Factorial Files for crops cotten and Maize were generated using ElementTree module from xml package in python.
+Factorial Files for crops cotten and Maize from base simulation files were generated using ElementTree module from xml package in python.
 
 meterological data for simulations was collected from [data.telangana.gov.in](data.telangana.gov.in).
 
